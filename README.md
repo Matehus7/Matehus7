@@ -1,25 +1,28 @@
-<h1 align="center">Seja Bem-vindo 👋</h1>
+# Olá, eu sou o Matheus Costa! 👋
 
-###
+**Desenvolvedor de Sistemas | Java (Spring Boot) | PHP | Python**
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-</div>
+Atualmente cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. Unindo minha experiência técnica em Design Gráfico com a paixão pela arquitetura de software para criar soluções escaláveis, seguras e visualmente intuitivas.
 
-###
+### 🚀 No que estou focado:
+* **Back-end:** Construção de APIs RESTful robustas com Java/Spring Boot e PHP.
+* **Data:** Modelagem SQL (MySQL, PostgreSQL) e NoSQL (MongoDB).
+* **DevOps & Tools:** Versionamento com Git/GitHub, Metodologias Ágeis e Linux.
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
+---
 
-###
+### 🛠️ Toolbox Técnica:
+* **Linguagens:** Java (JDK 17+), PHP 8, Python, JavaScript (ES6).
+* **Frameworks:** Spring Boot (JPA, Hibernate, Security), Express, Bootstrap.
+* **Banco de Dados:** MySQL, PostgreSQL, MongoDB.
+* **Design/Frontend:** HTML5, CSS3, CorelDraw, UX/UI Design.
 
-###
+---
+
+### 📈 Estatísticas e Contato:
+- 📍 São Paulo, Brasil
+- 📧 matheuscostadossanto@gmail.com
+- [LinkedIn](SEU_LINK_AQUI)
+
+---
+"Código limpo, interface intuitiva e foco no resultado."
