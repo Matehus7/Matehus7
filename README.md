@@ -22,7 +22,7 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. U
 ### 📈 Estatísticas e Contato:
 - 📍 São Paulo, Brasil
 - 📧 matheuscostadossanto@gmail.com
-- [LinkedIn](SEU_LINK_AQUI)
+- [LinkedIn](www.linkedin.com/in/matheuscosta77)
 
 ---
 "Código limpo, interface intuitiva e foco no resultado."
