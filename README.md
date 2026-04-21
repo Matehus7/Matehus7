@@ -64,10 +64,10 @@ Sites e sistemas responsivos com:
 ###
 
 <div align="center">
-  <a href="SEU_LINKEDIN">
+  <a href="www.linkedin.com/in/matheuscosta77">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="matheucostadossanto@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
