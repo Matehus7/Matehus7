@@ -2,21 +2,51 @@
 
 **Desenvolvedor de Sistemas | Java (Spring Boot) | PHP | Python**
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. Unindo minha experiência técnica em Design Gráfico com a paixão pela arquitetura de software para criar soluções escaláveis, seguras e visualmente intuitivas.
+Estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento back-end, software e tecnologia.
 
-### 🚀 No que estou focado:
-* **Back-end:** Construção de APIs RESTful robustas com Java/Spring Boot e PHP.
-* **Data:** Modelagem SQL (MySQL, PostgreSQL) e NoSQL (MongoDB).
-* **DevOps & Tools:** Versionamento com Git/GitHub, Metodologias Ágeis e Linux.
+Busco evoluir construindo projetos reais e aplicando boas práticas de desenvolvimento.
 
----
+💻 Tecnologias
 
-### 🛠️ Toolbox Técnica:
-* **Linguagens:** Java (JDK 17+), PHP 8, Python, JavaScript (ES6).
-* **Frameworks:** Spring Boot (JPA, Hibernate, Security), Express, Bootstrap.
-* **Banco de Dados:** MySQL, PostgreSQL, MongoDB.
-* **Design/Frontend:** HTML5, CSS3, CorelDraw, UX/UI Design.
+Back-end: Java, Spring Boot, PHP, Node.js, Express.js, Laravel, CodeIgniter
+Front-end: HTML5, CSS3, JavaScript, Bootstrap
+Banco de Dados: MySQL, PostgreSQL
+Ferramentas: Git, GitHub, APIs REST, Swagger, JUnit
 
+📌 Projetos
+API RESTful - Gestão de Biblioteca
+
+API desenvolvida com Java + Spring Boot.
+
+CRUD completo
+PostgreSQL
+Spring Data JPA
+Swagger
+Testes com JUnit e Mockito
+StockManager
+
+Sistema desktop de controle de estoque em Java + MySQL.
+
+Cadastro de produtos
+Entrada e saída
+Busca de itens
+Interface gráfica
+APIs RESTful
+
+Projetos com Node.js + Express.
+
+GET, POST, PUT e DELETE
+Rotas organizadas
+Integração com banco de dados
+Projetos Web
+
+Sites e sistemas responsivos com HTML, CSS, JavaScript, PHP e MySQL.
+
+🎓 Formação e Cursos
+Graduação em Análise e Desenvolvimento de Sistemas
+Java e POO (Spring Boot) – Udemy
+Desenvolvimento Web Full Stack – Udemy
+Web Design e Python – Senac / Senai
 ---
 
 ### 📈 Estatísticas e Contato:
